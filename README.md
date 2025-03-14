@@ -1,0 +1,2 @@
+# -Statistical_Analysis_of_Scooter_Rental_Service
+Статистический анализ сервиса аренды самокатов
